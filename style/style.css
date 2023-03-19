@@ -1,0 +1,21 @@
+table {
+	margin-block-start: 1em;
+	border: 2px solid black;
+	font-family: sans-serif;
+	text-align: center;
+}
+table tr:nth-child(odd) {
+	background-color: #C5E7E2;
+}
+
+table tr:nth-child(even) {
+	background-color: #8E8E99;
+}
+
+/* Headers */
+table th {
+	background-color: #4059AD;
+	color: white;
+	width: 35px;
+	height: 30px;
+}
