@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(64, 64, 64);
+    color: white;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    height: 100vh;
+}
+
+header {
+    position: absolute;
+    top: 50%;
+    width: 100vw;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+}
